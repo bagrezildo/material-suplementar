@@ -4,11 +4,10 @@ Repositório contendo os arquivos referidos no Apêndice C da Dissertação de M
 
 ## Sobre os arquivos
 
-Tabela S1 - Metadados dos Genomas.xlsx
-    Tabela que inclui metadados(sequênciamento, isolamento e depósito), dos 155 genomas utilizados no estudo.
-Tabela S2 - Resultado ANI.xlsx
-    Tabela que inclui o resultado do ANI dos 155 genomas do estudo contra as 4 referêncais utilizadas, *E. casseliflavus* ATCC 12755, *E. flavescens* ATCC 49996, *E. entomosocium* IIL-SusEc e *E. innesii* DB-1.
+### Tabela S1 - Metadados dos Genomas.xlsx
 
+Tabela que inclui metadados(sequênciamento, isolamento e depósito), dos 155 genomas utilizados no estudo.
 
-Enterococcus complete ANI
-    Arquivo que contem os valores de identidade ANI em análise de todos contra-todos de 8769 genomas do gênero Enterococcus retirados do NCBI RefSeq.
+### Tabela S2 - Resultado ANI.xlsx
+
+Tabela que inclui o resultado do ANI dos 155 genomas do estudo contra as 4 referêncais utilizadas, *E. casseliflavus* ATCC 12755, *E. flavescens* ATCC 49996, *E. entomosocium* IIL-SusEc e *E. innesii* DB-1.
